@@ -20,11 +20,10 @@ npm run dev
 
 The app will be available at:
 
-http://localhost:5173
+http://localhost:5173/
 
 
-
-İnstallation:
+INSTALLATION !!
 - Download project. 
 - Open in eclipse or Intellij idea.
 - You must make a database connection carefully.
