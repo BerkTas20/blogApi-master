@@ -1,7 +1,8 @@
 # blogApi
-My Blog Api
+My Blog Api v2,  post, photo and comment services, controllers changed. 
 
 Simple Blog Api -- Java 17 Spring boot 2.5.5 -- Hibernate / JPA -- MYSQL Workbench -- RSQL Filter -- Unit Test
+edit: use jdk 17 in your editor
 
 İnstallation:
 - Download project. 
