@@ -4,6 +4,26 @@ My Blog Api v2,  post, photo and comment services, controllers changed.
 Simple Blog Api -- Java 17 Spring boot 2.5.5 -- Hibernate / JPA -- MYSQL Workbench -- RSQL Filter -- Unit Test
 edit: use jdk 17 in your editor
 
+🚀 Getting Started
+1️⃣ Install dependencies
+npm install
+
+2️⃣ Configure environment variables
+
+Create a .env file in the root directory:
+
+VITE_API_BASE_URL=http://localhost:8090/api/v1
+
+3️⃣ Run the development server
+npm run dev
+
+
+The app will be available at:
+
+http://localhost:5173
+
+
+
 İnstallation:
 - Download project. 
 - Open in eclipse or Intellij idea.
