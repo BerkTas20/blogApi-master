@@ -73,10 +73,8 @@ public class PostServiceImpl implements PostService {
             post.setDescription(req.getDescription());
         }
 
-        // photo update (opsiyonel)
         if (req.getPhoto() != null && !req.getPhoto().isEmpty()) {
-            // photo save logic (sendeki metoda göre)
-            // post.setPhoto(...)
+
         }
 
         return postMapper.entityToDto(postRepository.save(post));
